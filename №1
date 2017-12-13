@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
-setlocale(0, "");
 int main()
 {
+setlocale(0, "");
 int num = 5;
 int n;
 cout<<"Введите количество элементов ";
